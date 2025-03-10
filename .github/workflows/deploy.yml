@@ -3,43 +3,29 @@ name: Deploy Hugo Site
 on:
   push:
     branches:
-      - main  # Adjust if using a different branch
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Hugo (Extended)
+      - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '22'  # Adjust based on TailwindCSS requirements
-
-      - name: Install Dependencies
-        run: npm install
-
       - name: Install TailwindCSS CLI
         run: npm install -g tailwindcss
 
-      - name: Install Hugo Modules
-        run: hugo mod get -u && hugo mod tidy
-
-      - name: Build Site
+      - name: Build
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages
-          force_orphan: true
