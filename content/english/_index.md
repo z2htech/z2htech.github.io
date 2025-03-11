@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Zero to Hero, Bits to Brilliance"
+  content: "Zero2Hero 社区是一个非盈利的区块链技术与交易社区，致力于为全球区块链开发者、研究人员、行业从业者和爱好者提供一个开放、共享的交流平台。我们专注于区块链技术的研究与实践，涵盖智能合约、去中心化应用（DApp）、链上交易、市场趋势分析等多个领域。"
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,13 +11,13 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Zero2Hero 区块链技术社区致力于"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "为广大区块链开发者、研究人员及技术爱好者提供一个开放、前沿、充满活力的技术交流与合作平台"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
+      - "为了激励优秀开发者和创新项目"
+      - "社区还设有丰厚的奖励机制"
+      - "技术竞赛奖金、开源贡献激励、项目孵化支持等"
       - "Fully responsive on all devices"
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
