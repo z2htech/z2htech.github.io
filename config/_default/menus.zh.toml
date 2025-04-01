@@ -1,0 +1,73 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "关于"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "元素"
+url = "/elements"
+weight = 3
+
+[[main]]
+weight = 4
+name = "其他"
+
+[[main]]
+parent = "其他"
+name = "Labs 介绍"
+url = "/labs"
+weight = 1
+
+[[main]]
+parent = "其他"
+name = "黑客松介绍"
+url = "/contact"
+weight = 2
+
+[[main]]
+parent = "其他"
+name = "活动"
+url = "/contact"
+weight = 3
+
+[[main]]
+parent = "其他"
+name = "归零食堂 介绍"
+url = "/authors"
+weight = 4
+
+[[main]]
+parent = "其他"
+name = "QI 介绍"
+url = "/categories"
+weight = 5
+
+[[main]]
+parent = "其他"
+name = "技术社区 介绍"
+url = "/Labs"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3

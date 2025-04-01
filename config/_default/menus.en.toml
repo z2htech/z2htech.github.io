@@ -18,32 +18,42 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Others"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+parent = "Others"
+name = "Labs 介绍"
+url = "/labs"
+weight = 1
 
 [[main]]
-parent = "Pages"
-name = "Contact"
+parent = "Others"
+name = "黑客松介绍"
 url = "/contact"
+weight = 2
 
 [[main]]
-parent = "Pages"
-name = "Authors"
+parent = "Others"
+name = "活动"
+url = "/contact"
+weight = 3
+
+[[main]]
+parent = "Others"
+name = "归零食堂 介绍"
 url = "/authors"
+weight = 4
 
 [[main]]
-parent = "Pages"
-name = "Categories"
+parent = "Others"
+name = "QI 介绍"
 url = "/categories"
+weight = 5
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+parent = "Others"
+name = "技术社区 介绍"
+url = "/Labs"
 
 
 # footer menu
