@@ -1,4 +1,4 @@
-############# English navigation ##############
+############# chinese navigation ##############
 
 # main menu
 [[main]]
@@ -18,40 +18,40 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "其他"
+name = "更多"
 
 [[main]]
-parent = "其他"
+parent = "更多"
 name = "Labs 介绍"
 url = "/labs"
 weight = 1
 
 [[main]]
-parent = "其他"
+parent = "更多"
 name = "黑客松介绍"
 url = "/contact"
 weight = 2
 
 [[main]]
-parent = "其他"
+parent = "更多"
 name = "活动"
 url = "/contact"
 weight = 3
 
 [[main]]
-parent = "其他"
+parent = "更多"
 name = "归零食堂 介绍"
 url = "/authors"
 weight = 4
 
 [[main]]
-parent = "其他"
+parent = "更多"
 name = "QI 介绍"
-url = "/categories"
+url = "/QI-Introduction/"
 weight = 5
 
 [[main]]
-parent = "其他"
+parent = "更多"
 name = "技术社区 介绍"
 url = "/Labs"
 
