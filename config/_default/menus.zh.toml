@@ -1,0 +1,23 @@
+############# chinese navigation ##############
+
+# main menu
+
+[[main]]
+name = "VitaFlux 社区"
+url = "/"
+weight = 1
+
+[[main]]
+name = "QI资本"
+url = "/QI/"
+weight = 2
+
+[[main]]
+name = "社区黑客松"
+url = "/hack-v1"
+weight = 3
+
+[[main]]
+name = "关于我们"
+url = "/about"
+weight = 4

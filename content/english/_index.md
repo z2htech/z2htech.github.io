@@ -3,7 +3,7 @@
 banner:
   title: "Zero to Hero, Bits to Brilliance"
   content: "Zero2Hero 社区是一个非盈利的区块链技术与交易社区，致力于为全球区块链开发者、研究人员、行业从业者和爱好者提供一个开放、共享的交流平台。我们专注于区块链技术的研究与实践，涵盖智能合约、去中心化应用（DApp）、链上交易、市场趋势分析等多个领域。"
-  image: "/images/banner.png"
+  image: "/images/z2h-official.png"
   button:
     enable: true
     label: "Get Started For Free"
@@ -26,7 +26,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Overview"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
@@ -38,7 +38,7 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Knowledge base help"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
