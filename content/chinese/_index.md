@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">VitaFlux连接高校精英，定义数字未来</h2>
+<h1 style="text-align: center;">VitaFlux连接高校精英，定义数字未来</h1>
 
 <div class="text-right text-black dark:text-white">
   <i>玛丽莲、Kyle 03/04/2025</i>

@@ -9,12 +9,12 @@ weight = 1
 
 [[main]]
 name = "QI资本"
-url = "/QI-Introduction/"
+url = "/QI/"
 weight = 2
 
 [[main]]
 name = "社区黑客松"
-url = "/hack"
+url = "/hack-v1"
 weight = 3
 
 [[main]]
