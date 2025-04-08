@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Hugoplate</title><link>/pages/</link><description>Recent content in Pages on Hugoplate</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/hack-v1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/hack-v1/</guid><description>&lt;h1 id="vitaflux云顶天宫第一届线上社区黑客松参赛规则">&lt;strong>VitaFlux·云顶天宫第一届线上社区黑客松参赛规则&lt;/strong>&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 7FLUX</title><link>/pages/</link><description>Recent content in Pages on 7FLUX</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/hack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/hack/</guid><description/></item><item><title>Elements</title><link>/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/elements/</guid><description>&lt;details class="table-of-content ">
+ &lt;summary>
+ 
+ Table of Contents
+ 
+ &lt;/summary>
+ &lt;nav id="TableOfContents">
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-2">Heading 2&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-3">Heading 3&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-4">Heading 4&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-5">Heading 5&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;li>&lt;a href="#emphasis">Emphasis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#button">Button&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#link">Link&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#paragraph">Paragraph&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ordered-list">Ordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unordered-list">Unordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#notice">Notice&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tab">Tab&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#accordions">Accordions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#blockquote">Blockquote&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#image">Image&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#gallery">Gallery&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#slider">Slider&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#youtube-video">Youtube video&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#custom-video">Custom video&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+&lt;/nav>
+&lt;/details>
+
+&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>Labs 介绍</title><link>/labs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/labs/</guid><description/></item><item><title>Privacy</title><link>/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p></description></item><item><title>QI资本</title><link>/qi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/qi/</guid><description>&lt;h1 style="text-align: center;">QI 资本 | 引领 Web3 金融创新的全球风险投资先锋&lt;/h1>
+&lt;hr>
+&lt;h6 id="公司概况">公司概况&lt;/h6>
+&lt;p>QI 资本（QI Capital Foundation）是一家专注于区块链与 Web3 领域的全球风险投资公司，致力于通过前沿金融投资和技术赋能，推动下一代互联网金融生态的革新。以“连接思想，定义未来”为使命，QI 资本凭借敏锐的市场洞察、强大的资本实力和全球资源网络，为 Web3 创新项目提供从种子轮到成熟期的全周期支持，重塑数字经济格局。&lt;/p></description></item><item><title>VitaFlux</title><link>/vitaflux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/vitaflux/</guid><description>&lt;h1 style="text-align: center;">VitaFlux连接高校精英，定义数字未来&lt;/h1>
+&lt;hr>
+&lt;h6 id="社区概况">社区概况&lt;/h6>
+&lt;p>VitaFlux 由 QI 资本（QI Capital Foundation）发起，面向全球高校学生和高学历人群，致力于打造一个 Web3 创新融合平台。以“连接思想，定义未来”为愿景，我们汇聚对web3、新金融和AI感兴趣的年轻精英，提供资源整合、技术学习和项目实践机会，构建高校驱动的 Web3 生态，重塑数字经济格局。&lt;/p></description></item><item><title>社区黑客松</title><link>/hack-v1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/hack-v1/</guid><description>&lt;h1 id="vitaflux云顶天宫第一届线上社区黑客松参赛规则">&lt;strong>VitaFlux·云顶天宫第一届线上社区黑客松参赛规则&lt;/strong>&lt;/h1>
 &lt;h2 id="比赛形式与规则">&lt;strong>比赛形式与规则&lt;/strong>&lt;/h2>
 &lt;h3 id="注册">&lt;strong>注册&lt;/strong>&lt;/h3>
 &lt;ul>
@@ -66,53 +115,4 @@
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="主题建议">主题建议：&lt;/h2>
-&lt;p>本次黑客松围绕 Web3 + AI 结合的创新应用，包括但不限于：&lt;/p></description></item><item><title/><link>/hack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/hack/</guid><description/></item><item><title/><link>/qi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/qi/</guid><description>&lt;h1 style="text-align: center;">QI 资本 | 引领 Web3 金融创新的全球风险投资先锋&lt;/h1>
-&lt;hr>
-&lt;h6 id="公司概况">公司概况&lt;/h6>
-&lt;p>QI 资本（QI Capital Foundation）是一家专注于区块链与 Web3 领域的全球风险投资公司，致力于通过前沿金融投资和技术赋能，推动下一代互联网金融生态的革新。以“连接思想，定义未来”为使命，QI 资本凭借敏锐的市场洞察、强大的资本实力和全球资源网络，为 Web3 创新项目提供从种子轮到成熟期的全周期支持，重塑数字经济格局。&lt;/p></description></item><item><title/><link>/vitaflux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/vitaflux/</guid><description>&lt;h1 style="text-align: center;">VitaFlux连接高校精英，定义数字未来&lt;/h1>
-&lt;hr>
-&lt;h6 id="社区概况">社区概况&lt;/h6>
-&lt;p>VitaFlux 由 QI 资本（QI Capital Foundation）发起，面向全球高校学生和高学历人群，致力于打造一个 Web3 创新融合平台。以“连接思想，定义未来”为愿景，我们汇聚对web3、新金融和AI感兴趣的年轻精英，提供资源整合、技术学习和项目实践机会，构建高校驱动的 Web3 生态，重塑数字经济格局。&lt;/p></description></item><item><title>Elements</title><link>/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/elements/</guid><description>&lt;details class="table-of-content ">
- &lt;summary>
- 
- Table of Contents
- 
- &lt;/summary>
- &lt;nav id="TableOfContents">
- &lt;ol>
- &lt;li>&lt;a href="#heading-2">Heading 2&lt;/a>
- &lt;ol>
- &lt;li>&lt;a href="#heading-3">Heading 3&lt;/a>
- &lt;ol>
- &lt;li>&lt;a href="#heading-4">Heading 4&lt;/a>
- &lt;ol>
- &lt;li>&lt;a href="#heading-5">Heading 5&lt;/a>&lt;/li>
- &lt;/ol>
- &lt;/li>
- &lt;/ol>
- &lt;/li>
- &lt;li>&lt;a href="#emphasis">Emphasis&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#button">Button&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#link">Link&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#paragraph">Paragraph&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#ordered-list">Ordered List&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#unordered-list">Unordered List&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#notice">Notice&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#tab">Tab&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#accordions">Accordions&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#blockquote">Blockquote&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#image">Image&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#gallery">Gallery&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#slider">Slider&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#youtube-video">Youtube video&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#custom-video">Custom video&lt;/a>&lt;/li>
- &lt;/ol>
- &lt;/li>
- &lt;/ol>
-&lt;/nav>
-&lt;/details>
-
-&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>Labs 介绍</title><link>/labs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/labs/</guid><description/></item><item><title>Privacy</title><link>/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p></description></item></channel></rss>
+&lt;p>本次黑客松围绕 Web3 + AI 结合的创新应用，包括但不限于：&lt;/p></description></item></channel></rss>
