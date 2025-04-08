@@ -1,3 +1,6 @@
+---
+title: "QI资本"
+---
 <h1 style="text-align: center;">QI 资本 | 引领 Web3 金融创新的全球风险投资先锋</h1>
 
 ---

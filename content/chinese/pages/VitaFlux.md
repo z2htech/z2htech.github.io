@@ -1,3 +1,6 @@
+---
+title: "VitaFlux"
+---
 <h1 style="text-align: center;">VitaFlux连接高校精英，定义数字未来</h1>
 
 ---
